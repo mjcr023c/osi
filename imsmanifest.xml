@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 2.5.5 SCORM 1.2 Content Package document-->
+<!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk-->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="Modelo de Referencia OSI" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <imsmd:lom>
+      <imsmd:general>
+        <imsmd:title>
+          <imsmd:langstring xml:lang="en">OA Modelo de Referencia OSI</imsmd:langstring>
+        </imsmd:title>
+        <imsmd:language>es</imsmd:language>
+        <imsmd:description>
+          <imsmd:langstring xml:lang="en">Describe las Caracteristicas de las Capas del modelo de Referencia OSI</imsmd:langstring>
+        </imsmd:description>
+        <imsmd:keyword>
+          <imsmd:langstring xml:lang="en">Modelo de Referencia OSI,Redes, Comunicacion de Datos, OSI, TCP IP</imsmd:langstring>
+        </imsmd:keyword>
+        <imsmd:structure>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Hierarchical</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:structure>
+        <imsmd:aggregationlevel>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">1</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:aggregationlevel>
+      </imsmd:general>
+      <imsmd:lifecycle>
+        <imsmd:version>
+          <imsmd:langstring xml:lang="en">1.0</imsmd:langstring>
+        </imsmd:version>
+        <imsmd:status>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">prueba</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:status>
+        <imsmd:contribute>
+          <imsmd:role>
+            <imsmd:source>
+              <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+            </imsmd:source>
+            <imsmd:value>
+              <imsmd:langstring xml:lang="en">Author</imsmd:langstring>
+            </imsmd:value>
+          </imsmd:role>
+          <imsmd:centity>
+            <imsmd:vcard>Martin Corrales</imsmd:vcard>
+          </imsmd:centity>
+          <imsmd:date>
+            <imsmd:datetime>Octubre 2009</imsmd:datetime>
+          </imsmd:date>
+        </imsmd:contribute>
+      </imsmd:lifecycle>
+      <imsmd:metametadata>
+        <imsmd:identifier>OAModeloDeRefenciaOSI</imsmd:identifier>
+        <imsmd:contribute>
+          <imsmd:role>
+            <imsmd:source>
+              <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+            </imsmd:source>
+            <imsmd:value>
+              <imsmd:langstring xml:lang="en">Creator</imsmd:langstring>
+            </imsmd:value>
+          </imsmd:role>
+          <imsmd:centity>
+            <imsmd:vcard>Martin Corrales</imsmd:vcard>
+          </imsmd:centity>
+          <imsmd:date>
+            <imsmd:datetime>Octubre 2009</imsmd:datetime>
+          </imsmd:date>
+        </imsmd:contribute>
+        <imsmd:language>es</imsmd:language>
+      </imsmd:metametadata>
+      <imsmd:technical>
+        <imsmd:format>application/x-shockwave-flash</imsmd:format>
+        <imsmd:size>116736</imsmd:size>
+        <imsmd:location>ambar.ciens.ucv.ve:8080/OSI/</imsmd:location>
+        <imsmd:requirement>
+          <imsmd:type>
+            <imsmd:source>
+              <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+            </imsmd:source>
+            <imsmd:value>
+              <imsmd:langstring xml:lang="en">Browser</imsmd:langstring>
+            </imsmd:value>
+          </imsmd:type>
+          <imsmd:name>
+            <imsmd:source>
+              <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+            </imsmd:source>
+            <imsmd:value>
+              <imsmd:langstring xml:lang="en">Cualquier Navegador</imsmd:langstring>
+            </imsmd:value>
+          </imsmd:name>
+          <imsmd:minimumversion>Adobe Flash Player 10</imsmd:minimumversion>
+          <imsmd:maximumversion>superior</imsmd:maximumversion>
+        </imsmd:requirement>
+        <imsmd:installationremarks>
+          <imsmd:langstring xml:lang="en">Navegador Web con pluggin Adobe Flash Player 10</imsmd:langstring>
+        </imsmd:installationremarks>
+        <imsmd:otherplatformrequirements>
+          <imsmd:langstring xml:lang="en">Cualquier Navegador con Flash Player</imsmd:langstring>
+        </imsmd:otherplatformrequirements>
+        <imsmd:duration>
+          <imsmd:datetime>5horas</imsmd:datetime>
+        </imsmd:duration>
+      </imsmd:technical>
+      <imsmd:educational>
+        <imsmd:interactivitytype>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Active</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:interactivitytype>
+        <imsmd:learningresourcetype>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Exercise</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:learningresourcetype>
+        <imsmd:interactivitylevel>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">medium</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:interactivitylevel>
+        <imsmd:semanticdensity>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">medium</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:semanticdensity>
+        <imsmd:intendedenduserrole>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Learner</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:intendedenduserrole>
+        <imsmd:context>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">University First Cycle</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:context>
+        <imsmd:typicalagerange>
+          <imsmd:langstring xml:lang="en">16 en adelante</imsmd:langstring>
+        </imsmd:typicalagerange>
+        <imsmd:difficulty>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">medium</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:difficulty>
+        <imsmd:typicallearningtime>
+          <imsmd:datetime>4 a 5</imsmd:datetime>
+        </imsmd:typicallearningtime>
+        <imsmd:description>
+          <imsmd:langstring xml:lang="en">El estudiante se encontrara con varias lecciones en las cuales debe prestar mucha atencion luego se les presenta la parte practica donde interactua con las mismas y luego se fortalece con una pequeña autoevaluacion</imsmd:langstring>
+        </imsmd:description>
+        <imsmd:language>es</imsmd:language>
+      </imsmd:educational>
+      <imsmd:rights>
+        <imsmd:cost>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">no</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:cost>
+        <imsmd:copyrightandotherrestrictions>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">yes</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:copyrightandotherrestrictions>
+        <imsmd:description>
+          <imsmd:langstring xml:lang="en">Debe comunicarse con el autor para su uso</imsmd:langstring>
+        </imsmd:description>
+      </imsmd:rights>
+      <imsmd:annotation>
+        <imsmd:person>
+          <imsmd:vcard />
+        </imsmd:person>
+      </imsmd:annotation>
+      <imsmd:classification>
+        <imsmd:purpose>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Educational Objective</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:purpose>
+      </imsmd:classification>
+    </imsmd:lom>
+  </metadata>
+  <organizations default="ORG-CE7E80E35111BE7DE31D0E32AFECEFC3">
+    <organization identifier="ORG-CE7E80E35111BE7DE31D0E32AFECEFC3" structure="hierarchical">
+      <title>Cronología</title>
+      <item identifier="ITEM-495823AD7A4B68D8EDA9721EDEDC2508" isvisible="true" identifierref="RES-3F15A335D7B339927DB3AB9D0DDE619F">
+        <title>Página Principal</title>
+      </item>
+      <item identifier="ITEM-70B9158FAD027A42F15D3F8AFFA2F0D6" isvisible="true" identifierref="RES-8F3C680B6EDBD1154156844EA357F0E2">
+        <title>Presentación</title>
+      </item>
+      <item identifier="ITEM-1A9A7019482EB7DD46ADD479F5C0161C" isvisible="true" identifierref="RES-F0B442AA343D488D8957D61AF4C410EC">
+        <title>Introducción</title>
+      </item>
+      <item identifier="ITEM-F3F5D23412CF413056117F556350DC73" isvisible="true" identifierref="RES-5542F962BA95249BB5A9575B8D9A73FD">
+        <title>Capas Modelo Osi</title>
+      </item>
+      <item identifier="ITEM-38B400DADD71218CFEFFC2DE94D7ADED" isvisible="true" identifierref="RES-EA6C4A51641BCB4424E5A730B108AEC1">
+        <title>Práctica</title>
+      </item>
+      <item identifier="ITEM-300EC785C05C43F5C0797B8826B2DAB3" isvisible="true" identifierref="RES-3A7DC473BC221B9F7A5847383C94469C">
+        <title>Auto-Evaluación</title>
+      </item>
+      <item identifier="ITEM-79DA5C4DB0FA4E3E5F463C1133F8E3BE" isvisible="true" identifierref="RES-7C252CF96C37D23B8D2AA5DD59F9FF49">
+        <title>Enlaces de Interés</title>
+      </item>
+      <item identifier="ITEM-4B59BDD5BC7AE0C9BD4072E49A626E5B" isvisible="true" identifierref="RES-99619179FEF9CCCAFCEDBD6FD944445E">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-50217366C77A5D5AB62ECC1C545A26F1" type="webcontent" href="animaciones/autoevaluacion.swf">
+      <file href="animaciones/autoevaluacion.swf" />
+    </resource>
+    <resource identifier="RES-AE27140D7AFFDFA4CAF3CAEF3A5BDC89" type="webcontent" href="animaciones/bienvenida.swf">
+      <file href="animaciones/bienvenida.swf" />
+    </resource>
+    <resource identifier="RES-B8EBCB99F32F52E2B6DD47798F6D9CFF" type="webcontent" href="animaciones/capa.swf">
+      <file href="animaciones/capa.swf" />
+    </resource>
+    <resource identifier="RES-5F2EB7AB07ED32F7B9E86F88D02C750E" type="webcontent" href="animaciones/capas.swf">
+      <file href="animaciones/capas.swf" />
+    </resource>
+    <resource identifier="RES-ABB81503DD2D471D8EED6D4BA8D36D14" type="webcontent" href="animaciones/creditos.swf">
+      <file href="animaciones/creditos.swf" />
+    </resource>
+    <resource identifier="RES-2360397318A71A535C0E271C3790268F" type="webcontent" href="animaciones/enlaces.swf">
+      <file href="animaciones/enlaces.swf" />
+    </resource>
+    <resource identifier="RES-FD9389CF7303245559329AC8FE946292" type="webcontent" href="animaciones/introduccion.swf">
+      <file href="animaciones/introduccion.swf" />
+    </resource>
+    <resource identifier="RES-125D2B9A0D8C961D910C3C3D18FF5014" type="webcontent" href="animaciones/practica.swf">
+      <file href="animaciones/practica.swf" />
+    </resource>
+    <resource identifier="RES-CFB8DAA6AE7331125A3452E27D3C877D" type="webcontent" href="animaciones/presentacion.swf">
+      <file href="animaciones/presentacion.swf" />
+    </resource>
+    <resource identifier="RES-C216AA253D669C76CE7C2116F56F2AB5" type="webcontent" href="images/back.png">
+      <file href="images/back.png" />
+    </resource>
+    <resource identifier="RES-CA48F8D82E39617E6EA85F919EEDE531" type="webcontent" href="images/bgbottom.png">
+      <file href="images/bgbottom.png" />
+    </resource>
+    <resource identifier="RES-6A2C8F773BC03B5AEAB5B0128BE02A9C" type="webcontent" href="images/bgmiddle.png">
+      <file href="images/bgmiddle.png" />
+    </resource>
+    <resource identifier="RES-48986B631ADA4C19D4493EA0B2544F51" type="webcontent" href="images/bgtop.png">
+      <file href="images/bgtop.png" />
+    </resource>
+    <resource identifier="RES-EC6929D6E52191B12F00A6218945CE5A" type="webcontent" href="images/bodyparts.png">
+      <file href="images/bodyparts.png" />
+    </resource>
+    <resource identifier="RES-800CDFC163378B1270516AB17C174E01" type="webcontent" href="images/desktop.ini">
+      <file href="images/desktop.ini" />
+    </resource>
+    <resource identifier="RES-7D61873C045E955FDD15231C77661D3B" type="webcontent" href="images/EscComp.PNG">
+      <file href="images/EscComp.PNG" />
+    </resource>
+    <resource identifier="RES-99312C42AFCE1F92C4EC27818460AA17" type="webcontent" href="images/header.png">
+      <file href="images/header.png" />
+    </resource>
+    <resource identifier="RES-57E0B8FC8DA0FC997414F6A6B2CD1ECB" type="webcontent" href="images/logo.png">
+      <file href="images/logo.png" />
+    </resource>
+    <resource identifier="RES-56037389713D9388700015118C2850A1" type="webcontent" href="images/logociens.PNG">
+      <file href="images/logociens.PNG" />
+    </resource>
+    <resource identifier="RES-1D5ACBA2877BC3E89DB2D4DE32D8875C" type="webcontent" href="images/off.png">
+      <file href="images/off.png" />
+    </resource>
+    <resource identifier="RES-8CBDFA36D0A1293C1CA6F647C6E88293" type="webcontent" href="images/on.png">
+      <file href="images/on.png" />
+    </resource>
+    <resource identifier="RES-98E61DF562D8F311DC31D5F03D394932" type="webcontent" href="images/texttop.png">
+      <file href="images/texttop.png" />
+    </resource>
+    <resource identifier="RES-261346377446610E20E822AF74726BEC" type="webcontent" href="images/Thumbs.db">
+      <file href="images/Thumbs.db" />
+    </resource>
+    <resource identifier="RES-C11197028520B1C04539CA61F1312570" type="webcontent" href="Scripts/AC_RunActiveContent.js">
+      <file href="Scripts/AC_RunActiveContent.js" />
+    </resource>
+    <resource identifier="RES-3A7DC473BC221B9F7A5847383C94469C" type="webcontent" href="autoevaluacion.html">
+      <file href="autoevaluacion.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="capas.html" />
+      <file href="creditos.html" />
+      <file href="enlaces.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="index.html" />
+      <file href="introduccion.html" />
+      <file href="presentacion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+    <resource identifier="RES-3F15A335D7B339927DB3AB9D0DDE619F" type="webcontent" href="index.html">
+      <file href="index.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="autoevaluacion.html" />
+      <file href="capas.html" />
+      <file href="creditos.html" />
+      <file href="enlaces.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="introduccion.html" />
+      <file href="presentacion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+    <resource identifier="RES-F0B442AA343D488D8957D61AF4C410EC" type="webcontent" href="introduccion.html">
+      <file href="introduccion.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="autoevaluacion.html" />
+      <file href="capas.html" />
+      <file href="creditos.html" />
+      <file href="enlaces.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="index.html" />
+      <file href="presentacion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+    <resource identifier="RES-8F3C680B6EDBD1154156844EA357F0E2" type="webcontent" href="presentacion.html">
+      <file href="presentacion.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="autoevaluacion.html" />
+      <file href="capas.html" />
+      <file href="creditos.html" />
+      <file href="enlaces.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="index.html" />
+      <file href="introduccion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+    <resource identifier="RES-5542F962BA95249BB5A9575B8D9A73FD" type="webcontent" href="capas.html">
+      <file href="capas.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="autoevaluacion.html" />
+      <file href="creditos.html" />
+      <file href="enlaces.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="index.html" />
+      <file href="introduccion.html" />
+      <file href="presentacion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+    <resource identifier="RES-99619179FEF9CCCAFCEDBD6FD944445E" type="webcontent" href="creditos.html">
+      <file href="creditos.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="autoevaluacion.html" />
+      <file href="capas.html" />
+      <file href="enlaces.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="index.html" />
+      <file href="introduccion.html" />
+      <file href="presentacion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+    <resource identifier="RES-EA6C4A51641BCB4424E5A730B108AEC1" type="webcontent" href="practica.html">
+      <file href="practica.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/practica.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="autoevaluacion.html" />
+      <file href="capas.html" />
+      <file href="creditos.html" />
+      <file href="enlaces.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="index.html" />
+      <file href="introduccion.html" />
+      <file href="presentacion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+    <resource identifier="RES-7C252CF96C37D23B8D2AA5DD59F9FF49" type="webcontent" href="enlaces.html">
+      <file href="enlaces.html" />
+      <file href="animaciones/autoevaluacion.swf" />
+      <file href="animaciones/bienvenida.swf" />
+      <file href="animaciones/capas.swf" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/introduccion.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="autoevaluacion.html" />
+      <file href="capas.html" />
+      <file href="creditos.html" />
+      <file href="images/bgbottom.png" />
+      <file href="images/bgmiddle.png" />
+      <file href="images/EscComp.PNG" />
+      <file href="images/header.png" />
+      <file href="images/logociens.PNG" />
+      <file href="images/off.png" />
+      <file href="images/on.png" />
+      <file href="index.html" />
+      <file href="introduccion.html" />
+      <file href="presentacion.html" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style.css" />
+    </resource>
+  </resources>
+</manifest>
+
