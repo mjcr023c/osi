@@ -28,5 +28,5 @@ You could use in [Moodle](https://moodle.org/) as [SCORM package](https://docs.m
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-## Abaout README.md
+## About README.md
 You can read the file readme in other languages in [README (Spanish)](https://github.com/mjcr023c/osi/blob/master/README.es-ES.md)
