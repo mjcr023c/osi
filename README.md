@@ -15,8 +15,11 @@ Technologies:
 - ActionScript
 ```
 
-:trophy:
-In 2009, the **Learning Object OSI Model** was finalist of the Competition Creating Learning Objects in Galicia Spain.
+
+In 2009, the **Learning Object OSI Model** was finalist of the Competition Creating Learning Objects in Galicia Spain.:trophy:
+
+![2009, Competition Galicia](https://mjcr023c.github.io/cv/img/logros/Concurso_Galicia.png)
+
 
 ## Installation 
 You can deploy in any web server (Wamp, Xamp, IIS, otros), however, is not require.
