@@ -18,6 +18,8 @@ Entre las tecnologías que se utilizaron para su desarrollo están:
 
 En 2009, el **OA Modelo de Referencia OSI** resulto finalista del Concurso Creación Objetos de Aprendizaje en Galicia España. :trophy:
 
+![2009, Competition Galicia](https://mjcr023c.github.io/cv/img/logros/Concurso_Galicia.png)
+
 ##Instalación 
 Puede ser desplegado en cualquier servidor de aplicaciones web (Wamp, Xamp, IIS, otros), sin embargo, no es requerido desplegarlo en algún servidor.
 
